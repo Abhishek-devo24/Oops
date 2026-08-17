@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Encapsulation/Encapsulation.csproj" Id="6e05f55d-fecf-4cc0-bc78-cdb2019bd496" />
   <Project Path="Inheritance/Inheritance.csproj" />
   <Project Path="Polymorphism/Polymorphism.csproj" Id="274a26ca-df08-458c-a0ef-51ff546b2ee8" />
   <Project Path="Traning/Traning.csproj" />
