@@ -8,11 +8,11 @@ namespace Abstract
     {
         public void MyMethod()
         {
-            Console.WriteLine("ImplementOfInterface.MyMethod");
+            Console.WriteLine(" 1st interface method");
         }
         public void MyMethodB()
         {
-            Console.WriteLine("ImplementOfInterface.MyMethodB");
+            Console.WriteLine(" 2nd interface method");
         }
   
     }
