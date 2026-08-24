@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Abstract
 {
-    internal class ImplementOfInterface : Myinterface, MyinterfaceB
+    internal class ImplementOfInterface : Myinterface, MyinterfaceB // implementing of interface in parent class
     {
-        public void MyMethod()
+        public void MyMethod()  // call all the menthod from interface without calling its show error 
         {
             Console.WriteLine(" 1st interface method");
         }

@@ -4,8 +4,8 @@ using System.Text;
 
 namespace Abstract
 {
-    internal interface MyinterfaceB
+    internal interface MyinterfaceB  // interface is used to define the method without body and we implement in parent class.
     {
-        void MyMethodB();
+        void MyMethodB();   // method without body
     }
 }

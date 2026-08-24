@@ -11,3 +11,8 @@
 ImplementOfInterface obj = new ImplementOfInterface();
 obj.MyMethod();
 obj.MyMethodB();
+
+
+ParentClassOfAbstract obj1 = new ParentClassOfAbstract();
+obj1.DisA(25,30);
+obj1.DisB();
