@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="Abstract/Abstract.csproj" Id="37cff2d8-fbbe-48e8-aa75-d0b738d0124d" />
   <Project Path="Encapsulation/Encapsulation.csproj" Id="6e05f55d-fecf-4cc0-bc78-cdb2019bd496" />
+  <Project Path="ExceptionHandling/ExceptionHandling.csproj" Id="b3399cd4-0102-4e23-9fba-0cc38be8eb8b" />
   <Project Path="Inheritance/Inheritance.csproj" />
   <Project Path="Polymorphism/Polymorphism.csproj" Id="274a26ca-df08-458c-a0ef-51ff546b2ee8" />
   <Project Path="Traning/Traning.csproj" />
