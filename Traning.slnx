@@ -10,6 +10,7 @@
   <Project Path="DbImplement/DbImplement.csproj" Id="00897338-50e0-488c-87ea-0d0b980dc054" />
   <Project Path="Encapsulation/Encapsulation.csproj" Id="6e05f55d-fecf-4cc0-bc78-cdb2019bd496" />
   <Project Path="ExceptionHandling/ExceptionHandling.csproj" Id="b3399cd4-0102-4e23-9fba-0cc38be8eb8b" />
+  <Project Path="Generics/Generics.csproj" Id="d6dfbe1d-326d-4c87-9acb-c757bfbccec3" />
   <Project Path="Inheritance/Inheritance.csproj" />
   <Project Path="Polymorphism/Polymorphism.csproj" Id="274a26ca-df08-458c-a0ef-51ff546b2ee8" />
   <Project Path="StringOperation/StringOperation.csproj" Id="ab9dd28e-6e3a-4236-aeaf-b2518751a1c5" />
